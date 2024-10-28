@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1730011865 source:d:\abcd\dsa_brand_new_serie\queue\main.cpp
+	<iostream>
+	<queue>
+	<algorithm>
+	<stack>
+	<unordered_map>
+	<vector>
+
